@@ -1,6 +1,6 @@
 ## Welcome to 혜미네
 
-오늘 처음 챗봇만들어봤고
+👩👩오늘 처음 챗봇만들어봤고
 앞으로 과정 기록할꺼야..
 
 You can use the [editor on GitHub](https://github.com/ahnhyemi/chatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
